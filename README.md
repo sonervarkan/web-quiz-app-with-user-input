@@ -1,0 +1,1 @@
+This is a quiz application project and users create the quiz content themselves by entering the questions, answer options and correct answers themselves, and then they can start the quiz with this data.
